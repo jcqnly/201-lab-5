@@ -79,7 +79,7 @@ IMPORTANT DETAIL: You may not use the arithmetic operator + in this function. To
 
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumArray() function and see if the test passes.*/
 
-// TODO: Write your code here
+// DONE: Write your code here
 var testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(testArray) { //eslint-disable-line
@@ -91,7 +91,7 @@ function sumArray(testArray) { //eslint-disable-line
   return [testArraySum, message];
 }
 
-// TODO: Here is the test for sumArray(); uncomment it to run it
+// DONE: Here is the test for sumArray(); uncomment it to run it
 testSumArray(testArray);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
